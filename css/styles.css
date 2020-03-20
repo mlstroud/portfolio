@@ -32,6 +32,10 @@
   margin-bottom: 20px;
 }
 
+.about-profile {
+  text-align: left;
+}
+
 .content {
   padding: 20px;
   background-color:#EEEEEE;
@@ -43,7 +47,6 @@
 
 .title-footer {
   text-indent: 5px;
-  font-style: italic;
 }
 
 .about-panel {
@@ -162,17 +165,45 @@
   margin-right: 20px;
 }
 
-.view-live-link {
-  font-size: 15px;
-  text-decoration: underline;
-  color: #212529;
-}
-.view-live-link a, a:hover, a:focus, a:active, a:visited  {
+a.view-live-link  {
   text-decoration: none;
   color: #212529;
+}
+
+a.view-live-link:hover {
+  text-decoration: none;
+  color: skyblue;
 }
 
 a, a:focus, a:active, a:visited, a:hover img {
   color: #212529;
   text-decoration: none;
+}
+
+.home-portfolio {
+  text-align: center;
+  background: #212529;
+  color: white;
+}
+
+.emphasis {
+  color: skyblue;
+}
+
+.tech-list {
+  text-align: left;
+}
+
+.tech-list li {
+  list-style-type: decimal;
+}
+
+a.portfolio-link  {
+  text-decoration: none;
+  color: white;
+}
+
+a.portfolio-link:hover {
+  text-decoration: none;
+  color: skyblue;
 }
