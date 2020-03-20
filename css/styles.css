@@ -38,6 +38,10 @@ body {
   margin-bottom: 20px;
 }
 
+.home-portfolio h2 {
+  text-shadow: 2px 2px 1px black;
+}
+
 .about-profile {
   text-align: left;
 }
@@ -82,6 +86,7 @@ body {
   border-width: 5px;
   border-color: white;
   padding: 5px;
+  text-shadow: 2px 2px 1px black;
 }
 
 .panel-body {
@@ -107,14 +112,12 @@ body {
 
 .img-code-index {
   overflow: hidden;
-
   width: 100%;
   background-image: url(../img/img_code.png);
   height: 250px;
   border: black;
   border-width: 1px;
-  border-style: solid;
-  
+  border-style: solid; 
   background-position: center;
   background-size: cover;
   text-align: right;
@@ -135,14 +138,12 @@ body {
 
 .img-code-portfolio {
   overflow: hidden;
-
   width: 100%;
   background-image: url(../img/img_vscode.png);
   height: 250px;
   border: black;
   border-width: 1px;
-  border-style: solid;
-  
+  border-style: solid; 
   background-position: center;
   background-size: cover;
   text-align: right;
@@ -163,14 +164,12 @@ body {
 
 .img-code-about {
   overflow: hidden;
-
   width: 100%;
   background-image: url(../img/img_code2.png);
   height: 250px;
   border: black;
   border-width: 1px;
   border-style: solid;
-  
   background-position: center;
   background-size: cover;
   text-align: right;
