@@ -248,10 +248,12 @@ a.portfolio-link:hover {
   width: 100%;
   background-color: #212529;
   color: white;
+  display: block;
 }
 
-.copyright{
-  float: left;
+.copyright {
+  margin-top: 10px;
+  font-size: 12px;
 }
 
 .footer ul{
@@ -261,6 +263,11 @@ a.portfolio-link:hover {
   margin:0;
   padding:0;
   list-style-type: none;
+  display: inline-block;
+}
+
+.footer-nav {
+  margin-right: 10px;
 }
 .footer-nav ul, li {
   list-style-position:inside;

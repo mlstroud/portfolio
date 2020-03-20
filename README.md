@@ -15,7 +15,7 @@ _This is my portfolio displaying projects created while attending Epicodus._
 
 ## View Online
 
-* View at https://mlstroud.github.io/mlstroud/portfolio/index.html
+* View at https://mlstroud.github.io/mlstroud/portfolio/
 
 ### License
 
