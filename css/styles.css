@@ -44,8 +44,8 @@
 }
 
 .img-thumb {
-  width: 300px;
-  height: auto;
+  width: 90%;
+  text-decoration: none;
   border-style: solid;
   border-width: 1px;
   border-color: bg-dark;
@@ -62,7 +62,7 @@
   color: #212529;
 }
 
-.img-thumb a, a:hover, a:focus, a:active, a:visited {
-  text-decoration: none;
+a, a:focus, a:active, a:visited, a:hover img {
   color: #212529;
+  text-decoration: none;
 }
