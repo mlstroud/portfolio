@@ -1,8 +1,20 @@
 .jumbotron {
   text-align: center;
-  margin-bottom: 0;
+  margin-bottom: 20px;
+  background-color: #EEEEEE;
+
 }
 
 .navbar {
   margin-top: 0;
+  margin-bottom: 0px;
+}
+
+.content {
+  padding: 20px;
+  background-color:#EEEEEE;
+  border-left: solid;
+  border-right: solid;
+  border-bottom: solid;
+  border-color: bg-dark;
 }
