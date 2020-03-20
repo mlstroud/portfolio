@@ -18,3 +18,44 @@
   border-bottom: solid;
   border-color: bg-dark;
 }
+
+.project-row {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.panel-title{
+  background-color: #212529;
+  color: white;
+  border-bottom: solid;
+  border-width: 5px;
+  border-color: white;
+  padding: 5px;
+}
+
+.panel-body {
+  padding: 5px;
+}
+.panel {
+  border-style: solid;
+  border-width: 1px;
+  border-color: bg-dark;
+}
+
+.img-thumb {
+  width: 300px;
+  height: auto;
+  border-style: solid;
+  border-width: 1px;
+  border-color: bg-dark;
+  margin-bottom: 5px;
+}
+
+.img-thumb a, a:hover, a:focus, a:active, a:visited {
+  text-decoration: none;
+  color: inherit
+}
+
+.view-live-link {
+  font-size: 15px;
+}
