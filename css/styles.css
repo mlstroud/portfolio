@@ -38,6 +38,41 @@ body {
   margin-bottom: 20px;
 }
 
+.contact-well {
+  text-align: center;
+  background: #212529;
+  color: white;
+  margin-bottom: 50px;
+}
+
+.contact-well h3{
+  text-shadow: 2px 2px 1px black;
+}
+
+a[href^="mailto"] {
+  text-decoration: none;
+  color: skyblue;
+}
+a[href^="mailto"]:visited {
+  text-decoration: none;
+  color: skyblue;
+}
+
+a[href^="mailto"]:focus {
+  text-decoration: none;
+  color: skyblue;
+}
+
+a[href^="mailto"]:active {
+  text-decoration: none;
+  color: skyblue;
+}
+
+a[href^="mailto"]:hover {
+  text-decoration: none;
+  color: skyblue;
+}
+
 .home-portfolio h2 {
   text-shadow: 2px 2px 1px black;
 }
