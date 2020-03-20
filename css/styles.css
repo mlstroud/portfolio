@@ -2,12 +2,27 @@
   text-align: center;
   margin-bottom: 20px;
   background-color: #EEEEEE;
-
+  height: 200px;
+  box-shadow: 5px 5px 5px #212529;
 }
+
 
 .navbar {
   margin-top: 0;
   margin-bottom: 0px;
+}
+
+.well {
+  background-color: white;
+  box-shadow: 5px 5px 5px #212529;
+  padding: 10px;
+  width: 100%;
+}
+
+.home-well {
+  content: "";
+  clear: both;
+  display: table;
 }
 
 .content {
@@ -17,6 +32,11 @@
   border-right: solid;
   border-bottom: solid;
   border-color: bg-dark;
+}
+
+.title-footer {
+  text-indent: 5px;
+  font-style: italic;
 }
 
 .project-row {
@@ -51,6 +71,18 @@
   border-width: 1px;
   border-color: bg-dark;
   margin-bottom: 5px;
+}
+
+.img-profile {
+  width: 150px;
+  float: left;
+  text-decoration: none;
+  border-style: solid;
+  box-shadow: 5px 5px 10px #212529;
+  border-width: 1px;
+  border-color: bg-dark;
+  margin-bottom: 5px;
+  margin-right: 20px;
 }
 
 .view-live-link {
