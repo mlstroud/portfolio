@@ -1,15 +1,18 @@
+body {
+  background-color: #212529;
+}
+
 .jumbotron {
   text-align: center;
-  margin-bottom: 20px;
+  margin-bottom: 0;
   background-color: #EEEEEE;
   height: 200px;
-  box-shadow: 5px 5px 5px #212529;
+  border-radius: 0;
 }
 
 .jumbotron h1{
   font-size: 50px;
   color: skyblue;
-  text-shadow: 1px 1px 1px #212529;
 }
 .navbar {
   margin-top: 0;
@@ -41,10 +44,7 @@
 .content {
   padding: 20px;
   background-color:#EEEEEE;
-  border-left: solid;
-  border-right: solid;
-  border-bottom: solid;
-  border-color: bg-dark;
+
 }
 
 .title-footer {
