@@ -47,6 +47,7 @@
   width: 90%;
   text-decoration: none;
   border-style: solid;
+  box-shadow: 5px 5px 10px #212529;
   border-width: 1px;
   border-color: bg-dark;
   margin-bottom: 5px;
