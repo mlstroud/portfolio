@@ -21,10 +21,15 @@
   width: 100%;
 }
 
+.navbar {
+  font-weight: bold;
+}
+
 .home-well {
   content: "";
   clear: both;
   display: table;
+  margin-bottom: 20px;
 }
 
 .content {
@@ -39,6 +44,19 @@
 .title-footer {
   text-indent: 5px;
   font-style: italic;
+}
+
+.about-panel {
+  width: 100%;
+  margin: 10px;
+  text-align: center;
+}
+
+.about-panel ul, li{
+  list-style-position:inside;
+  margin:0;
+  padding:0;
+  list-style-type: none;
 }
 
 .project-row {
