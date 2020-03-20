@@ -97,7 +97,7 @@
   margin-bottom: 5px;
 }
 
-.img-code {
+.img-code-index {
   overflow: hidden;
 
   width: 100%;
@@ -112,7 +112,20 @@
   text-align: right;
 }
 
-.img-code2 {
+.img-code-index h2 {
+  color: white;
+  text-shadow: 10px 10px 10px #212529;
+  padding-right: 20px;
+}
+
+.img-code-index p {
+  color: white;
+  text-shadow: 10px 10px 10px #212529;
+  padding-right: 20px;
+  font-size: 17px;
+}
+
+.img-code-portfolio {
   overflow: hidden;
 
   width: 100%;
@@ -127,26 +140,41 @@
   text-align: right;
 }
 
-.img-code h2 {
+.img-code-portfolio h2 {
   color: white;
   text-shadow: 10px 10px 10px #212529;
   padding-right: 20px;
 }
 
-.img-code p {
+.img-code-portfolio p {
   color: white;
   text-shadow: 10px 10px 10px #212529;
   padding-right: 20px;
   font-size: 17px;
 }
 
-.img-code2 h2 {
+.img-code-about {
+  overflow: hidden;
+
+  width: 100%;
+  background-image: url(../img/img_code2.png);
+  height: 250px;
+  border: black;
+  border-width: 1px;
+  border-style: solid;
+  
+  background-position: center;
+  background-size: cover;
+  text-align: right;
+}
+
+.img-code-about h2 {
   color: white;
   text-shadow: 10px 10px 10px #212529;
   padding-right: 20px;
 }
 
-.img-code2 p {
+.img-code-about p {
   color: white;
   text-shadow: 10px 10px 10px #212529;
   padding-right: 20px;
