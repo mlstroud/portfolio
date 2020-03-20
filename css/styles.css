@@ -54,6 +54,8 @@
 
 .view-live-link {
   font-size: 15px;
+  text-decoration: underline;
+  color: #212529;
 }
 .view-live-link a, a:hover, a:focus, a:active, a:visited  {
   text-decoration: none;
