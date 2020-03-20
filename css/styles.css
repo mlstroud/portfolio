@@ -242,3 +242,39 @@ a.portfolio-link:hover {
   text-decoration: none;
   color: skyblue;
 }
+
+.footer {
+  text-align: center;
+  width: 100%;
+  background-color: #212529;
+  color: white;
+}
+
+.copyright{
+  float: left;
+}
+
+.footer ul{
+  width: 25%;
+  columns: 3;
+  list-style-position:inside;
+  margin:0;
+  padding:0;
+  list-style-type: none;
+}
+.footer-nav ul, li {
+  list-style-position:inside;
+  margin:0;
+  padding:0;
+  list-style-type: none;
+}
+
+a.footer-link  {
+  text-decoration: none;
+  color: white;
+}
+
+a.footer-link:hover {
+  text-decoration: none;
+  color: skyblue;
+}
