@@ -8,6 +8,8 @@
 
 .jumbotron h1{
   font-size: 50px;
+  color: skyblue;
+  text-shadow: 1px 1px 1px #212529;
 }
 .navbar {
   margin-top: 0;
@@ -115,13 +117,13 @@
 .img-code-index h2 {
   color: white;
   text-shadow: 10px 10px 10px #212529;
-  padding-right: 20px;
+  padding-right: 30px;
 }
 
 .img-code-index p {
   color: white;
   text-shadow: 10px 10px 10px #212529;
-  padding-right: 20px;
+  padding-right: 30px;
   font-size: 17px;
 }
 
@@ -143,13 +145,13 @@
 .img-code-portfolio h2 {
   color: white;
   text-shadow: 10px 10px 10px #212529;
-  padding-right: 20px;
+  padding-right: 30px;
 }
 
 .img-code-portfolio p {
   color: white;
   text-shadow: 10px 10px 10px #212529;
-  padding-right: 20px;
+  padding-right: 30px;
   font-size: 17px;
 }
 
@@ -171,13 +173,13 @@
 .img-code-about h2 {
   color: white;
   text-shadow: 10px 10px 10px #212529;
-  padding-right: 20px;
+  padding-right: 30px;
 }
 
 .img-code-about p {
   color: white;
   text-shadow: 10px 10px 10px #212529;
-  padding-right: 20px;
+  padding-right: 30px;
   font-size: 17px;
 }
 
