@@ -1,7 +1,7 @@
 # _Portfolio_
 
 #### By _**Matt Stroud**_
-##### _Last Updated March 20, 2020_
+##### _Last Updated March 26, 2020_
 
 ## Description
 
@@ -15,7 +15,7 @@ _This is my portfolio displaying projects created while attending Epicodus._
 
 ## View Online
 
-* View at https://mlstroud.github.io/mlstroud/portfolio/
+* View at https://mlstroud.github.io/portfolio/
 
 ### License
 
